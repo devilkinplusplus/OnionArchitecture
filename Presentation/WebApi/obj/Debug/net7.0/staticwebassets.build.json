@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IRjrHTWdTL7KCgmou9oUGWruOc6SdbIZ30RF9v611X8=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "F:\\VsCode\\Projects\\FullStack\\SocialMedia\\backend\\SocialMediaApp\\Presentation\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

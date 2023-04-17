@@ -1,0 +1,15 @@
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\bin\Debug\net7.0\Application.deps.json
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\bin\Debug\net7.0\Application.dll
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\bin\Debug\net7.0\Application.pdb
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\bin\Debug\net7.0\Domain.dll
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\bin\Debug\net7.0\Domain.pdb
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.dll
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\refint\Application.dll
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\Application.pdb
+F:\VsCode\Projects\FullStack\SocialMedia\backend\SocialMediaApp\Core\Application\obj\Debug\net7.0\ref\Application.dll
